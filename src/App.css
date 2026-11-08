@@ -1,0 +1,14 @@
+.clock{
+align-items: center;
+align-content: center;
+font-weight: 300px;
+padding: 20px;
+  height: 300px;
+  width: 300px;
+  border: 2px solid red;
+  border-radius:  50%;
+  background: rgb(25, 0, 255);
+  color: rgb(242, 241, 237);
+  margin-top: 30px;
+
+}
